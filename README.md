@@ -17,7 +17,7 @@ The Counter App is a simple application designed to count up or down. It allows 
 - Toggle the auto-count buttons for automatic counting.
 - Use the reset button to reset the count.
 
-- ## Technologies Used
+### Technologies Used
 
 - HTML5
 - CSS3
